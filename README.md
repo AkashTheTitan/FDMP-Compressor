@@ -16,7 +16,7 @@ List of MatLab toolboxes used
 
 ## Features explanation
 
-![Algorithm schema](./images/FDMP1.jpg)
+![Screen shot of project GUI](./images/FDMP1.png)
 
 ## Sources
 
