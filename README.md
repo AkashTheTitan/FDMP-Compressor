@@ -16,7 +16,7 @@ List of MatLab toolboxes used
 
 ## Features explanation
 
-![Screen shot of project GUI](./images/FDMP1.png)
+![Screen shot of project GUI](./images/FDPM1.png)
 
 ## Sources
 
