@@ -34,5 +34,5 @@ This research project was done in collaboration with Atlas Copco. So, I cannot u
 
 ## Other information	
 
-* Author: Akash M. Shah(+917383006636)
+* Author: Akash M. Shah (+917622800636) (https://www.linkedin.com/in/akash-m-shah/)
 * Guide: Dr. Jagrut J. Gadit (MSU, Vadodara), Mr. Hitendra Patel (Atlas Copco, Vadodara)
