@@ -4,7 +4,8 @@
 
 1. [Introduction](#Introduction)
 2. [Prerequisites](#Prerequisites)
-3. [Launch](#Launch)
+3. [Features explanation](#Features-explanation)
+4. [Setup](#Setup)
 
 ## Introduction
 
@@ -29,10 +30,9 @@ List of MatLab toolboxes used
 
 ## Setup
 
-This research project was done in collabration with Atlas Copco. So, I cannot upload the developed code. You can contact me from inforamation given below.
+This research project was done in collaboration with Atlas Copco. So, I cannot upload the developed code. You can contact me from the information given below.
 
 ## Other information	
 
 * Author: Akash M. Shah(+917383006636)
-* Guide: Dr. Jagrut J. Gadit (MSU, Vadodara)
-		 Mr. Hitendra Patel (Atlas Copco, Vadodara)
+* Guide: Dr. Jagrut J. Gadit (MSU, Vadodara), Mr. Hitendra Patel (Atlas Copco, Vadodara)
