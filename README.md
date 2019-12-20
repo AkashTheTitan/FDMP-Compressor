@@ -8,11 +8,18 @@
 
 ## Introduction
 
-One Paragraph of project description goes here
+This is a Fault Diagnosis and Predictive Maintenance(FDPM) software tool made with MatLab. This software tool provides the main functions you'd expect from an industrial software, such as real-time monitoring, fault diagnosis, fault prediction, adjustable system parameters and LED indicators.
+
+![](./images/FDPM2.png)
 
 ## Prerequisites
 
 List of MatLab toolboxes used
+
+* Statistics and Machine Learning Toolbox
+* Fuzzy Logic Toolbox
+* GUIDE
+* Appdesigner
 
 ## Features explanation
 
@@ -20,10 +27,12 @@ List of MatLab toolboxes used
 
 ## Sources
 
-## Launch
+## Setup
 
-Explain launch in one line.
+This research project was done in collabration with Atlas Copco. So, I cannot upload the developed code. You can contact me from inforamation given below.
 
 ## Other information	
 
-Add Information on the author, contact and social media links.
+* Author: Akash M. Shah(+917383006636)
+* Guide: Dr. Jagrut J. Gadit (MSU, Vadodara)
+		 Mr. Hitendra Patel (Atlas Copco, Vadodara)
